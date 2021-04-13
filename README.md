@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test respitory
+Coursera test respository
